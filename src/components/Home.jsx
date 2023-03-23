@@ -15,7 +15,7 @@ const Home = () => {
         <Carousel.Item>
           <img
             className="d-block"
-            src="img/banner-1.jpg"
+            src="img/banner-4.jpg"
           />
           <Carousel.Caption>
             <div className="home__title">Сучасна Фотостудія</div>
