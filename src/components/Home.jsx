@@ -14,7 +14,7 @@ const Home = () => {
       <Carousel activeIndex={index} onSelect={handleSelect} pause={false}>
         <Carousel.Item>
           <img
-            className="d-block wl-100"
+            className="d-block"
             src="img/banner-1.jpg"
           />
           <Carousel.Caption>
@@ -27,7 +27,7 @@ const Home = () => {
         </Carousel.Item>
         <Carousel.Item>
           <img
-            className="d-block wl-100"
+            className="d-block"
             src="img/banner-2.jpg"
           />
 
@@ -41,7 +41,7 @@ const Home = () => {
         </Carousel.Item>
         <Carousel.Item>
           <img
-            className="d-block wl-100"
+            className="d-block"
             src="img/banner-3.jpg"
           />
 
